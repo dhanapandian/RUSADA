@@ -1,0 +1,146 @@
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Rusada_Mvc_Demo.dll.config
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Rusada_Mvc_Demo.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Rusada_Mvc_Demo.pdb
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csc.exe
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csc.exe.config
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csc.rsp
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csi.exe
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csi.exe.config
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csi.rsp
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.AppContext.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Console.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.IO.Compression.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.IO.FileSystem.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.IO.Pipes.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.AccessControl.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Claims.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.ValueTuple.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Xml.XPath.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\vbc.exe
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\vbc.exe.config
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\vbc.rsp
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\VBCSCompiler.exe
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Antlr3.Runtime.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\EntityFramework.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\EntityFramework.SqlServer.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Newtonsoft.Json.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Helpers.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Mvc.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Optimization.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Razor.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.WebPages.Deployment.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.WebPages.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.WebPages.Razor.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\WebGrease.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\EntityFramework.xml
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Helpers.xml
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Mvc.xml
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Optimization.xml
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Razor.xml
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.WebPages.xml
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.WebPages.Deployment.xml
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.WebPages.Razor.xml
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Newtonsoft.Json.xml
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\obj\Debug\Rusada_Mvc_Demo.csproj.CoreCompileInputs.cache
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\obj\Debug\Rusada_Mvc_Demo.csproj.CopyComplete
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\obj\Debug\Rusada_Mvc_Demo.dll
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\obj\Debug\Rusada_Mvc_Demo.pdb
+C:\PROJECTS\After Corona\ASP.NETMVC\Rusada_Mvc_Demo\Rusada_Mvc_Demo\obj\Debug\Rusada_Mvc_Demo.csprojAssemblyReference.cache
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Rusada_Mvc_Demo.dll.config
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Rusada_Mvc_Demo.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Rusada_Mvc_Demo.pdb
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csc.exe
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csc.exe.config
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csc.rsp
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csi.exe
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csi.exe.config
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\csi.rsp
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.AppContext.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Collections.Immutable.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Console.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.IO.Compression.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.IO.FileSystem.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.IO.Pipes.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Reflection.Metadata.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.AccessControl.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Claims.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Security.Principal.Windows.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.ValueTuple.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Xml.XPath.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\vbc.exe
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\vbc.exe.config
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\vbc.rsp
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\VBCSCompiler.exe
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\roslyn\VBCSCompiler.exe.config
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\EntityFramework.xml
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\EntityFramework.SqlServer.xml
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Helpers.xml
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Mvc.xml
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Optimization.xml
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.Razor.xml
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.WebPages.xml
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.WebPages.Deployment.xml
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\System.Web.WebPages.Razor.xml
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Newtonsoft.Json.xml
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Antlr3.Runtime.pdb
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\obj\Debug\Rusada_Mvc_Demo.csproj.CoreCompileInputs.cache
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\obj\Debug\Rusada_Mvc_Demo.csproj.CopyComplete
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\obj\Debug\Rusada_Mvc_Demo.dll
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\obj\Debug\Rusada_Mvc_Demo.pdb
+E:\tamil\Rusada_Mvc_Demo\Rusada_Mvc_Demo\obj\Debug\Rusada_Mvc_Demo.csprojAssemblyReference.cache

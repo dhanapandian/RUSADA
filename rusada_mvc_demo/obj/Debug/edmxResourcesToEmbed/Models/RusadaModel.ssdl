@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl" Alias="Self" Namespace="RusadaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012">
+  <EntityType Name="AirCraft">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Nullable="false" StoreGeneratedPattern="Identity" Type="int" />
+    <Property Name="make" Nullable="false" MaxLength="150" Type="varchar" />
+    <Property Name="model" Nullable="false" MaxLength="150" Type="varchar" />
+    <Property Name="registration" Nullable="false" MaxLength="150" Type="varchar" />
+    <Property Name="location" Nullable="false" MaxLength="300" Type="varchar" />
+    <Property Name="date" Nullable="false" Type="datetime" />
+    <Property Name="image_path" Type="varchar(max)" />
+  </EntityType>
+  <EntityContainer Name="RusadaModelStoreContainer">
+    <EntitySet Name="AirCraft" EntityType="Self.AirCraft" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
