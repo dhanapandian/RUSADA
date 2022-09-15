@@ -1,0 +1,9 @@
+This is aaasignment project for Rusada
+Just Download the project and give name  of the folder as "rusada_mvc-demo"
+sql script is also inside of sql folder .copy the script and pasted in your sql server.it will make the database as rusada and table as aircraft and it having some sample datas also.
+in webconfig file make your database connection string
+run the project.
+You can do crud operation and Serachby name with start charcter,searchby Model of Aircrat by entering model  & Serachby Registraion
+Happy to use.Kindly Share your Experience.
+
+
